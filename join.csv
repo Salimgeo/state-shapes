@@ -1,7 +1,7 @@
 ISO3166-2;ISO3166-1;NAME;ALT_NAME;CATEGORY;CONTINENT
 bo-c;bo;Cochabamba;;department;South America
 bo-h;bo;Chuquisaca;;department;South America
-bo-b;bo;Beni;;department;South America
+bo-b;bo;Beni;El Beni;department;South America
 bo-l;bo;La Paz;;department;South America
 bo-o;bo;Oruro;;department;South America
 bo-n;bo;Pando;;department;South America
@@ -93,3 +93,27 @@ py-12;py;?eembucú;Neembucu;department;South America
 py-9;py;Paraguarí;Paraguari;department;South America
 py-15;py;Presidente Hayes;President Hayes;department;South America
 py-2;py;San Pedro;Saint Peter;department;South America
+ar-b;ar;Buenos Aires;Buenos Aires Province;province;South America
+ar-k;ar;Catamarca;;province;South America
+ar-h;ar;Chaco;;province;South America
+ar-u;ar;Chubut;;province;South America
+ar-c;ar;Ciudad Autónoma de Buenos Aires;Autonomous City of Buenos Aires;city;South America
+ar-x;ar;Córdoba;;province;South America
+ar-w;ar;Corrientes;;province;South America
+ar-e;ar;Entre Ríos;;province;South America
+ar-p;ar;Formosa;;province;South America
+ar-y;ar;Jujuy;;province;South America
+ar-l;ar;La Pampa;;province;South America
+ar-f;ar;La Rioja;;province;South America
+ar-m;ar;Mendoza;;province;South America
+ar-n;ar;Misiones;;province;South America
+ar-q;ar;Neuquén;;province;South America
+ar-r;ar;Río Negro;;province;South America
+ar-a;ar;Salta;;province;South America
+ar-j;ar;San Juan;;province;South America
+ar-d;ar;San Luis;;province;South America
+ar-z;ar;Santa Cruz;;province;South America
+ar-s;ar;Santa Fe;;province;South America
+ar-g;ar;Santiago del Estero;;province;South America
+ar-v;ar;Tierra del Fuego;;province;South America
+ar-t;ar;Tucumán;;province;South America
