@@ -1,0 +1,95 @@
+ISO3166-2;ISO3166-1;NAME;ALT_NAME;CATEGORY;CONTINENT
+bo-c;bo;Cochabamba;;department;South America
+bo-h;bo;Chuquisaca;;department;South America
+bo-b;bo;Beni;;department;South America
+bo-l;bo;La Paz;;department;South America
+bo-o;bo;Oruro;;department;South America
+bo-n;bo;Pando;;department;South America
+bo-p;bo;Potosí;;department;South America
+bo-s;bo;Santa Cruz;;department;South America
+bo-t;bo;Tarija;;department;South America
+br-ac;br;Acre;;state;South America
+br-al;br;Alagoas;;state;South America
+br-ap;br;Amapá;;state;South America
+br-am;br;Amazonas;;state;South America
+br-ba;br;Bahia;;state;South America
+br-ce;br;Ceará;;state;South America
+br-df;br;Distrito Federal;;federal district;South America
+br-es;br;Espírito Santo;;state;South America
+br-go;br;Goiás;;state;South America
+br-ma;br;Maranh?o;;state;South America
+br-mt;br;Mato Grosso;;state;South America
+br-ms;br;Mato Grosso do Sul;;state;South America
+br-mg;br;Minas Gerais;;state;South America
+br-pa;br;Pará;;state;South America
+br-pb;br;Paraíba;;state;South America
+br-pr;br;Paraná;;state;South America
+br-pe;br;Pernambuco;;state;South America
+br-pi;br;Piauí;;state;South America
+br-rj;br;Rio de Janeiro;;state;South America
+br-rn;br;Rio Grande do Norte;;state;South America
+br-rs;br;Rio Grande do Sul;;state;South America
+br-ro;br;Rondônia;;state;South America
+br-rr;br;Roraima;;state;South America
+br-sc;br;Santa Catarina;;state;South America
+br-sp;br;S?o Paulo;;state;South America
+br-se;br;Sergipe;;state;South America
+br-to;br;Tocantins;;state;South America
+ec-a;ec;Azuay;;province;South America
+ec-b;ec; Bolívar;;province;South America
+ec-f;ec;Ca?ar;;province;South America
+ec-c;ec;Carchi;;province;South America
+ec-h;ec;Chimborazo;;province;South America
+ec-x;ec;Cotopaxi;;province;South America
+ec-o;ec;El Oro;;province;South America
+ec-e;ec;Esmeraldas;;province;South America
+ec-w;ec;Galápagos;;province;South America
+ec-g;ec;Guayas;;province;South America
+ec-i;ec;Imbabura;;province;South America
+ec-l;ec;Loja;;province;South America
+ec-r;ec;Los Ríos;;province;South America
+ec-m;ec;Manabí;;province;South America
+ec-s;ec;Morona Santiago;;province;South America
+ec-n;ec;Napo;;province;South America
+ec-d;ec;Orellana;;province;South America
+ec-y;ec;Pastaza;;province;South America
+ec-p;ec;Pichincha;;province;South America
+ec-se;ec;Santa Elena;;province;South America
+ec-sd;ec;Santo Domingo de los Tsáchilas;;province;South America
+ec-u;ec;Sucumbíos;;province;South America
+ec-t;ec;Tungurahua;;province;South America
+ec-z;ec;Zamora Chinchipe;;province;South America
+cl-ai;cl;Aisén del General Carlos Iba?ez del Campo;Aisen;region;South America
+cl-an;cl;Antofagasta;Antofagasta;region;South America
+cl-ap;cl;Arica y Parinacota;Arica and Parinacota;region;South America
+cl-at;cl;Atacama;Atacama;region;South America
+cl-bi;cl;Biobío;Biobio;region;South America
+cl-co;cl;Coquimbo;Coquimbo;region;South America
+cl-ar;cl;La Araucanía;La Araucania;region;South America
+cl-li;cl;Libertador General Bernardo O'Higgins;O'Higgins;region;South America
+cl-ll;cl;Los Lagos;The Lakes;region;South America
+cl-lr;cl;Los Ríos;The Rivers;region;South America
+cl-ma;cl;Magallanes;Magellan;region;South America
+cl-ml;cl;Maule;Maule;region;South America
+cl-nb;cl;?uble;Nuble;region;South America
+cl-rm;cl;Región Metropolitana de Santiago;Santiago Metropolitan Region;region;South America
+cl-ta;cl;Tarapacá;Tarapaca;region;South America
+cl-vs;cl;Valparaíso;Valparaiso;region;South America
+py-16;py;Alto Paraguay;Upper Paraguay;department;South America
+py-10;py;Alto Paraná;Upper Parana;department;South America
+py-13;py;Amambay;Amambay;department;South America
+py-asu;py;Asunción;Asuncion;capital district;South America
+py-19;py;Boquerón;Boqueron;department;South America
+py-5;py;Caaguazú;Caaguazu;department;South America
+py-6;py;Caazapá;Caazapa;department;South America
+py-14;py;Canindeyú;Canindeyu;department;South America
+py-11;py;Central;Central;department;South America
+py-1;py;Concepción;Concepcion;department;South America
+py-3;py;Cordillera;Cordillera;department;South America
+py-4;py;Guairá;Guaira;department;South America
+py-7;py;Itapúa;Itapua;department;South America
+py-8;py;Misiones;Misiones;department;South America
+py-12;py;?eembucú;Neembucu;department;South America
+py-9;py;Paraguarí;Paraguari;department;South America
+py-15;py;Presidente Hayes;President Hayes;department;South America
+py-2;py;San Pedro;Saint Peter;department;South America
