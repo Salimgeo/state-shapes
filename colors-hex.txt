@@ -1,0 +1,3 @@
+#c5c5c5	state fill
+#5c5c5c	state outline
+#dedede	semi-official parts of states or dispusted territory
