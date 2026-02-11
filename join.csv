@@ -11,7 +11,7 @@ bo-t;bo;Tarija;;department;South America
 br-ac;br;Acre;;state;South America
 br-al;br;Alagoas;;state;South America
 br-ap;br;Amapá;;state;South America
-br-am;br;Amazonas;;state;South America
+br-am;br;Amazonas;Amazonas (Brazil);state;South America
 br-ba;br;Bahia;;state;South America
 br-ce;br;Ceará;;state;South America
 br-df;br;Distrito Federal;;federal district;South America
@@ -117,3 +117,29 @@ ar-s;ar;Santa Fe;;province;South America
 ar-g;ar;Santiago del Estero;;province;South America
 ar-v;ar;Tierra del Fuego;;province;South America
 ar-t;ar;Tucumán;;province;South America
+pe-uca;pe;Ucayali;Ukayali;region;South America
+pe-tum;pe;Tumbes;Tumpis;region;South America
+pe-tac;pe;Tacna;Taqna;region;South America
+pe-sam;pe;San Martín;San Martin;region;South America
+pe-pun;pe;Puno;Punu;region;South America
+pe-piu;pe;Piura;Piwra;region;South America
+pe-pas;pe;Pasco;Pasqu;region;South America
+pe-moq;pe;Moquegua;Muqiwa;region;South America
+pe-mdd;pe;Madre de Dios;Mayutata;region;South America
+pe-lor;pe;Loreto;Luritu;region;South America
+pe-lma;pe;Municipalidad Metropolitana de Lima;Lima llaqta suyu;municipality;South America
+pe-lim;pe;Lima;Lima;region;South America
+pe-lam;pe;Lambayeque;Lampalliqi;region;South America
+pe-lal;pe;La Libertad;Qispi kay;region;South America
+pe-jun;pe;Junín;Hunin;region;South America
+pe-ica;pe;Ica;Ika;region;South America
+pe-huv;pe;Huancavelica;Wankawillka;region;South America
+pe-huc;pe;Huánuco;Wanuku;region;South America
+pe-cus;pe;Cusco;Qusqu;region;South America
+pe-cal;pe;El Callao;Qallaw;region;South America
+pe-caj;pe;Cajamarca;Kashamarka;region;South America
+pe-aya;pe;Ayacucho;Ayakuchu;region;South America
+pe-are;pe;Arequipa;Ariqipa;region;South America
+pe-apu;pe;Apurímac;Apurimaq;region;South America
+pe-anc;pe;Ancash;Anqash;region;South America
+pe-ama;pe;Amazonas;Amarumayu;region;South America
