@@ -15,7 +15,6 @@ c5c5c5	state fill
 ### South America
 * Colombia
 ### North America
-* Canada
 * United States of America
 * Mexico
 * Guatemala
@@ -23,17 +22,12 @@ c5c5c5	state fill
 * Dominican Republic
 ### Europe
 * Albania
-* Austria
-* Belgium
 * Bosnia and Herzegovina
 * Bulgaria
 * Croatia
 * Cyprus
-* Czech Republic
-* Denmark
 * Estonia
 * Finland
-* France
 * Germany
 * Greece
 * Hungary
@@ -96,7 +90,6 @@ c5c5c5	state fill
 * New Zealand
 
 ### Africa
-* Botswana
 * Eswatini
 * Ghana
 * Kenya

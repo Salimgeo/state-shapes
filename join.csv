@@ -17,7 +17,7 @@ br-ce;br;Ceará;;state;South America
 br-df;br;Distrito Federal;;federal district;South America
 br-es;br;Espírito Santo;;state;South America
 br-go;br;Goiás;;state;South America
-br-ma;br;Maranh?o;;state;South America
+br-ma;br;Maranhao;;state;South America
 br-mt;br;Mato Grosso;;state;South America
 br-ms;br;Mato Grosso do Sul;;state;South America
 br-mg;br;Minas Gerais;;state;South America
@@ -32,12 +32,12 @@ br-rs;br;Rio Grande do Sul;;state;South America
 br-ro;br;Rondônia;;state;South America
 br-rr;br;Roraima;;state;South America
 br-sc;br;Santa Catarina;;state;South America
-br-sp;br;S?o Paulo;;state;South America
+br-sp;br;Sao Paulo;;state;South America
 br-se;br;Sergipe;;state;South America
 br-to;br;Tocantins;;state;South America
 ec-a;ec;Azuay;;province;South America
 ec-b;ec; Bolívar;;province;South America
-ec-f;ec;Ca?ar;;province;South America
+ec-f;ec;Canar;;province;South America
 ec-c;ec;Carchi;;province;South America
 ec-h;ec;Chimborazo;;province;South America
 ec-x;ec;Cotopaxi;;province;South America
@@ -59,7 +59,7 @@ ec-sd;ec;Santo Domingo de los Tsáchilas;;province;South America
 ec-u;ec;Sucumbíos;;province;South America
 ec-t;ec;Tungurahua;;province;South America
 ec-z;ec;Zamora Chinchipe;;province;South America
-cl-ai;cl;Aisén del General Carlos Iba?ez del Campo;Aisen;region;South America
+cl-ai;cl;Aisén del General Carlos Ibanez del Campo;Aisen;region;South America
 cl-an;cl;Antofagasta;Antofagasta;region;South America
 cl-ap;cl;Arica y Parinacota;Arica and Parinacota;region;South America
 cl-at;cl;Atacama;Atacama;region;South America
@@ -71,33 +71,15 @@ cl-ll;cl;Los Lagos;The Lakes;region;South America
 cl-lr;cl;Los Ríos;The Rivers;region;South America
 cl-ma;cl;Magallanes;Magellan;region;South America
 cl-ml;cl;Maule;Maule;region;South America
-cl-nb;cl;?uble;Nuble;region;South America
+cl-nb;cl;Nuble;Nuble;region;South America
 cl-rm;cl;Región Metropolitana de Santiago;Santiago Metropolitan Region;region;South America
 cl-ta;cl;Tarapacá;Tarapaca;region;South America
 cl-vs;cl;Valparaíso;Valparaiso;region;South America
-py-16;py;Alto Paraguay;Upper Paraguay;department;South America
-py-10;py;Alto Paraná;Upper Parana;department;South America
-py-13;py;Amambay;Amambay;department;South America
-py-asu;py;Asunción;Asuncion;capital district;South America
-py-19;py;Boquerón;Boqueron;department;South America
-py-5;py;Caaguazú;Caaguazu;department;South America
-py-6;py;Caazapá;Caazapa;department;South America
-py-14;py;Canindeyú;Canindeyu;department;South America
-py-11;py;Central;Central;department;South America
-py-1;py;Concepción;Concepcion;department;South America
-py-3;py;Cordillera;Cordillera;department;South America
-py-4;py;Guairá;Guaira;department;South America
-py-7;py;Itapúa;Itapua;department;South America
-py-8;py;Misiones;Misiones;department;South America
-py-12;py;?eembucú;Neembucu;department;South America
-py-9;py;Paraguarí;Paraguari;department;South America
-py-15;py;Presidente Hayes;President Hayes;department;South America
-py-2;py;San Pedro;Saint Peter;department;South America
 ar-b;ar;Buenos Aires;Buenos Aires Province;province;South America
 ar-k;ar;Catamarca;;province;South America
 ar-h;ar;Chaco;;province;South America
 ar-u;ar;Chubut;;province;South America
-ar-c;ar;Ciudad Autónoma de Buenos Aires;Autonomous City of Buenos Aires;city;South America
+ar-c;ar;Autonomous City of Buenos Aires;Ciudad Autónoma de Buenos Aires;city;South America
 ar-x;ar;Córdoba;;province;South America
 ar-w;ar;Corrientes;;province;South America
 ar-e;ar;Entre Ríos;;province;South America
@@ -143,6 +125,24 @@ pe-are;pe;Arequipa;Ariqipa;region;South America
 pe-apu;pe;Apurímac;Apurimaq;region;South America
 pe-anc;pe;Ancash;Anqash;region;South America
 pe-ama;pe;Amazonas;Amarumayu;region;South America
+py-16;py;Alto Paraguay;Upper Paraguay;department;South America
+py-10;py;Alto Paraná;Upper Parana;department;South America
+py-13;py;Amambay;Amambay;department;South America
+py-asu;py;Asunción;Asuncion;capital district;South America
+py-19;py;Boquerón;Boqueron;department;South America
+py-5;py;Caaguazú;Caaguazu;department;South America
+py-6;py;Caazapá;Caazapa;department;South America
+py-14;py;Canindeyú;Canindeyu;department;South America
+py-11;py;Central;Central;department;South America
+py-1;py;Concepción;Concepcion;department;South America
+py-3;py;Cordillera;Cordillera;department;South America
+py-4;py;Guairá;Guaira;department;South America
+py-7;py;Itapúa;Itapua;department;South America
+py-8;py;Misiones;Misiones;department;South America
+py-12;py;Neembucú;Neembucu;department;South America
+py-9;py;Paraguarí;Paraguari;department;South America
+py-15;py;Presidente Hayes;President Hayes;department;South America
+py-2;py;San Pedro;Saint Peter;department;South America
 uy-ar;uy;Artigas;;department;South America
 uy-ca;uy;Canelones;;department;South America
 uy-cl;uy;Cerro Largo;;department;South America
@@ -175,7 +175,19 @@ ad-03;ad;Encamp;;parish;Europe
 ad-08;ad;Escaldes-Engordany;;parish;Europe
 ad-04;ad;La Massana;;parish;Europe
 ad-05;ad;Ordino;;parish;Europe
-ad-06;ad;Sant Juli? de L?ria;;parish;Europe
+ad-06;ad;Sant Julia de Loria;;parish;Europe
+at-1;at;Burgenland;Burgenland;state;Europe
+at-2;at;Carinthia;Kärnten;state;Europe
+at-3;at;Lower Austria;Niederösterreich;state;Europe
+at-4;at;Upper Austria;Oberösterreich;state;Europe
+at-5;at;Salzburg;Salzburg;state;Europe
+at-6;at;Styria;Steiermark;state;Europe
+at-7;at;Tyrol;Tirol;state;Europe
+at-8;at;Vorarlberg;Vorarlberg;state;Europe
+at-9;at;Vienna;Wien;state;Europe
+be-bru;be;Brussels;Brussels Hoofdstedelijk Gewest;region;Europe
+be-vlg;be;Flanders;Vlaams Gewest;region;Europe
+be-wal;be;Wallonia;Waals Gewest;region;Europe
 sk-bc;sk;Banská Bystrica;Banskobystrický kraj;region;Europe
 sk-bl;sk;Bratislava;Bratislavský kraj;region;Europe
 sk-ki;sk;Košice;Košický kraj;region;Europe
@@ -184,3 +196,64 @@ sk-pv;sk;Prešov;Prešovský kraj;region;Europe
 sk-tc;sk;Trenèín;Trenèiansky kraj;region;Europe
 sk-ta;sk;Trnava;Trnavský kraj;region;Europe
 sk-zi;sk;Žilina;Žilinský kraj;region;Europe
+bw-ce;bw;Central;;district;Africa
+bw-ch;bw;Chobe;;district;Africa
+bw-fr;bw;Francistown;;city;Africa
+bw-ga;bw;Gaborone;;city;Africa
+bw-gh;bw;Ghanzi;;district;Africa
+bw-jw;bw;Jwaneng;;town;Africa
+bw-kg;bw;Kgalagadi;;district;Africa
+bw-kl;bw;Kgatleng;;district;Africa
+bw-kw;bw;Kweneng;;district;Africa
+bw-lo;bw;Lobatse;;town;Africa
+bw-ne;bw;North East;;district;Africa
+bw-nw;bw;North West;;district;Africa
+bw-sp;bw;Selibe Phikwe;;town;Africa
+bw-se;bw;South East;;district;Africa
+bw-so;bw;Southern;;district;Africa
+bw-st;bw;Sowa Town;;town;Africa
+ca-ab;ca;Alberta;Alberta;province;North America
+ca-bc;ca;British Columbia;Colombie-Britannique;province;North America
+ca-mb;ca;Manitoba;Manitoba;province;North America
+ca-nb;ca;New Brunswick;Nouveau-Brunswick;province;North America
+ca-nl;ca;Newfoundland and Labrador;Terre-Neuve-et-Labrador;province;North America
+ca-nt;ca;Northwest Territories;Territoires du Nord-Ouest;territory;North America
+ca-ns;ca;Nova Scotia;Nouvelle-Écosse;province;North America
+ca-nu;ca;Nunavut;Nunavut;territory;North America
+ca-on;ca;Ontario;Ontario;province;North America
+ca-pe;ca;Prince Edward Island;Île-du-Prince-Édouard;province;North America
+ca-qc;ca;Quebec;Québec;province;North America
+ca-sk;ca;Saskatchewan;Saskatchewan;province;North America
+ca-yt;ca;Yukon;Yukon;territory;North America
+cz-10;cz;Prague;Praha, Hlavní mìsto;capital city;Europe
+cz-20;cz;Central Bohemia;Støedoèeský kraj;region;Europe
+cz-31;cz;South Bohemia;Jihoèeský kraj;region;Europe
+cz-32;cz;Plzeò;Plzeòský kraj;region;Europe
+cz-41;cz;Karlovy Vary;Karlovarský kraj;region;Europe
+cz-42;cz;Ústí nad Labem;Ústecký kraj;region;Europe
+cz-51;cz;Liberec;Liberecký kraj;region;Europe
+cz-52;cz;Hradec Králové;Královéhradecký kraj;region;Europe
+cz-53;cz;Pardubice;Pardubický kraj;region;Europe
+cz-63;cz;Vysoèina;Kraj Vysoèina;region;Europe
+cz-64;cz;South Moravia;Jihomoravský kraj;region;Europe
+cz-71;cz;Olomouc;Olomoucký kraj;region;Europe
+cz-72;cz;Zlín;Zlínský kraj;region;Europe
+cz-80;cz;Moravia-Silesia;Moravskoslezský kraj;region;Europe
+dk-84;dk;Hovedstaden;Capital;region;Europe
+dk-82;dk;Midtjylland;Central Denmark;region;Europe
+dk-81;dk;Nordjylland;North Denmark;region;Europe
+dk-85;dk;Sj?lland;Zealand;region;Europe
+dk-83;dk;Syddanmark;South Denmark;region;Europe
+fr-ara;fr;Auvergne-Rhône-Alpes;Auvergne-Rhône-Alps;metropolitan region;Europe
+fr-bfc;fr;Bourgogne-Franche-Comté;Burgundy-Franche-Comté;metropolitan region;Europe
+fr-bre;fr; Bretagne;Brittany;metropolitan region;Europe
+fr-cvl;fr;Centre-Val de Loire;Centre-Loire Valley;metropolitan region;Europe
+fr-20r;fr;Corse;Corsica;metropolitan collectivity with special status;Europe
+fr-ges;fr;Grand Est;Great East;metropolitan region;Europe
+fr-hdf;fr;Hauts-de-France;Upper France;metropolitan region;Europe
+fr-idf;fr;Île-de-France;Paris;metropolitan region;Europe
+fr-nor;fr; Normandie;Normandy;metropolitan region;Europe
+fr-naq;fr;Nouvelle-Aquitaine;New Aquitaine;metropolitan region;Europe
+fr-occ;fr; Occitanie;Occitania;metropolitan region;Europe
+fr-pdl;fr;Pays-de-la-Loire;Loire Country;metropolitan region;Europe
+fr-pac;fr;Provence-Alpes-Côte-d’Azur;Provence-Alps-French Riviera;metropolitan region;Europe
