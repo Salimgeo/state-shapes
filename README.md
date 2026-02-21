@@ -10,7 +10,7 @@ c5c5c5	state fill
     
 252525	suggested background color    
    
-## Missing states
+## To do states
 (includes only countries that have extensive Google Street View)   
 ### South America
 * Colombia
