@@ -244,16 +244,137 @@ dk-82;dk;Midtjylland;Central Denmark;region;Europe
 dk-81;dk;Nordjylland;North Denmark;region;Europe
 dk-85;dk;Sj?lland;Zealand;region;Europe
 dk-83;dk;Syddanmark;South Denmark;region;Europe
-fr-ara;fr;Auvergne-Rhône-Alpes;Auvergne-Rhône-Alps;metropolitan region;Europe
-fr-bfc;fr;Bourgogne-Franche-Comté;Burgundy-Franche-Comté;metropolitan region;Europe
-fr-bre;fr; Bretagne;Brittany;metropolitan region;Europe
-fr-cvl;fr;Centre-Val de Loire;Centre-Loire Valley;metropolitan region;Europe
-fr-20r;fr;Corse;Corsica;metropolitan collectivity with special status;Europe
-fr-ges;fr;Grand Est;Great East;metropolitan region;Europe
-fr-hdf;fr;Hauts-de-France;Upper France;metropolitan region;Europe
-fr-idf;fr;Île-de-France;Paris;metropolitan region;Europe
-fr-nor;fr; Normandie;Normandy;metropolitan region;Europe
-fr-naq;fr;Nouvelle-Aquitaine;New Aquitaine;metropolitan region;Europe
-fr-occ;fr; Occitanie;Occitania;metropolitan region;Europe
-fr-pdl;fr;Pays-de-la-Loire;Loire Country;metropolitan region;Europe
-fr-pac;fr;Provence-Alpes-Côte-d’Azur;Provence-Alps-French Riviera;metropolitan region;Europe
+fr-ara;fr;Auvergne-Rhône-Alps;Auvergne-Rhône-Alpes;metropolitan region;Europe
+fr-bfc;fr;Burgundy-Franche-Comté;Bourgogne-Franche-Comté;metropolitan region;Europe
+fr-bre;fr;Brittany; Bretagne;metropolitan region;Europe
+fr-cvl;fr;Centre-Loire Valley;Centre-Val de Loire;metropolitan region;Europe
+fr-20r;fr;Corsica;Corse;metropolitan collectivity with special status;Europe
+fr-ges;fr;Great East;Grand Est;metropolitan region;Europe
+fr-hdf;fr;Upper France;Hauts-de-France;metropolitan region;Europe
+fr-idf;fr;Paris;Île-de-France;metropolitan region;Europe
+fr-nor;fr;Normandy; Normandie;metropolitan region;Europe
+fr-naq;fr;New Aquitaine;Nouvelle-Aquitaine;metropolitan region;Europe
+fr-occ;fr;Occitania; Occitanie;metropolitan region;Europe
+fr-pdl;fr;Loire Country;Pays-de-la-Loire;metropolitan region;Europe
+fr-pac;fr;Provence-Alps-French Riviera;Provence-Alpes-Côte-d’Azur;metropolitan region;Europe
+de-bw;de;Baden-Württemberg;Baden-Württemberg;state;Europe
+de-by;de;Bavaria;Bayern;state;Europe
+de-be;de;Berlin;Berlin;state;Europe
+de-bb;de;Brandenburg;Brandenburg;state;Europe
+de-hb;de;Bremen;Bremen;state;Europe
+de-hh;de;Hamburg;Hamburg;state;Europe
+de-he;de;Hesse;Hessen;state;Europe
+de-mv;de;Mecklenburg-Western Pomerania;Mecklenburg-Vorpommern;state;Europe
+de-ni;de;Lower Saxony;Niedersachsen;state;Europe
+de-nw;de;North Rhine-Westphalia;Nordrhein-Westfalen;state;Europe
+de-rp;de;Rhineland-Palatinate;Rheinland-Pfalz;state;Europe
+de-sl;de;Saarland;Saarland;state;Europe
+de-sn;de;Saxony;Sachsen;state;Europe
+de-st;de;Saxony-Anhalt;Sachsen-Anhalt;state;Europe
+de-sh;de;Schleswig-Holstein;Schleswig-Holstein;state;Europe
+de-th;de;Thuringia;Thüringen;state;Europe
+id-ac;id;Aceh;Aceh;province;Asia
+id-ba;id;Bali;Bali;province;Asia
+id-bt;id;Banten;Banten;province;Asia
+id-be;id;Bengkulu;Bengkulu;province;Asia
+id-go;id;Gorontalo;Gorontalo;province;Asia
+id-jk;id;Jakarta;Jakarta Raya;capital district;Asia
+id-ja;id;Jambi;Jambi;province;Asia
+id-jb;id;West Java;Jawa Barat;province;Asia
+id-jt;id;Central Java;Jawa Tengah;province;Asia
+id-ji;id;East Java;Jawa Timur;province;Asia
+id-kb;id;West Kalimantan;Kalimantan Barat;province;Asia
+id-ks;id;South Kalimantan;Kalimantan Selatan;province;Asia
+id-kt;id;Central Kalimantan;Kalimantan Tengah;province;Asia
+id-ki;id;East Kalimantan;Kalimantan Timur;province;Asia
+id-ku;id;North Kalimantan;Kalimantan Utara;province;Asia
+id-bb;id;Bangka Belitung Islands;Kepulauan Bangka Belitung;province;Asia
+id-kr;id;Riau Islands;Kepulauan Riau;province;Asia
+id-la;id;Lampung;Lampung;province;Asia
+id-ma;id;Maluku;Maluku;province;Asia
+id-mu;id;North Maluku;Maluku Utara;province;Asia
+id-nb;id;West Nusa Tenggara;Nusa Tenggara Barat;province;Asia
+id-nt;id;East Nusa Tenggara;Nusa Tenggara Timur;province;Asia
+id-pa;id;Papua;Papua;province;Asia
+id-pb;id;West Papua;Papua Barat;province;Asia
+id-pd;id;Southwest Papua;Papua Barat Daya;province;Asia
+id-pe;id;Highland Papua;Papua Pengunungan;province;Asia
+id-ps;id;South Papua;Papua Selatan;province;Asia
+id-pt;id;Central Papua;Papua Tengah;province;Asia
+id-ri;id;Riau;Riau;province;Asia
+id-sr;id;West Sulawesi;Sulawesi Barat;province;Asia
+id-sn;id;South Sulawesi;Sulawesi Selatan;province;Asia
+id-st;id;Central Sulawesi;Sulawesi Tengah;province;Asia
+id-sg;id;Southeast Sulawesi;Sulawesi Tenggara;province;Asia
+id-sa;id;North Sulawesi;Sulawesi Utara;province;Asia
+id-sb;id;West Sumatra;Sumatera Barat;province;Asia
+id-ss;id;South Sumatra;Sumatera Selatan;province;Asia
+id-su;id;North Sumatra;Sumatera Utara;province;Asia
+id-yo;id;Yogyakarta;Yogyakarta;special region;Asia
+it-21;it;Piedmont;Piemonte;region;Europe
+it-23;it;Aosta Valley;Valle d'Aosta;autonomous region;Europe
+it-25;it;Lombardy;Lombardia;region;Europe
+it-32;it;Trentino-South Tyrol;Trentino-Alto Adige;autonomous region;Europe
+it-34;it;Veneto;Veneto;region;Europe
+it-36;it;Friuli Venezia Giulia;Friuli Venezia Giulia;autonomous region;Europe
+it-42;it;Liguria;Liguria;region;Europe
+it-45;it;Emilia-Romagna;Emilia-Romagna;region;Europe
+it-52;it;Tuscany;Toscana;region;Europe
+it-55;it;Umbria;Umbria;region;Europe
+it-57;it;Marche;Marche;region;Europe
+it-62;it;Lazio;Lazio;region;Europe
+it-65;it;Abruzzo;Abruzzo;region;Europe
+it-67;it;Molise;Molise;region;Europe
+it-72;it;Campania;Campania;region;Europe
+it-75;it;Apulia;Puglia;region;Europe
+it-77;it;Basilicata;Basilicata;region;Europe
+it-78;it;Calabria;Calabria;region;Europe
+it-82;it;Sicily;Sicilia;autonomous region;Europe
+it-88;it;Sardinia;Sardegna;autonomous region;Europe
+jp-23;jp;Aichi;Aiti;prefecture;Asia
+jp-05;jp;Akita;;prefecture;Asia
+jp-02;jp;Aomori;;prefecture;Asia
+jp-38;jp;Ehime;;prefecture;Asia
+jp-21;jp;Gifu;Gihu;prefecture;Asia
+jp-10;jp;Gunma;;prefecture;Asia
+jp-34;jp;Hiroshima;Hirosima;prefecture;Asia
+jp-01;jp;Hokkaido;Hokkaidô;prefecture;Asia
+jp-18;jp;Fukui;Hukui;prefecture;Asia
+jp-40;jp;Fukuoka;Hukuoka;prefecture;Asia
+jp-07;jp;Fukushima;Hukusima;prefecture;Asia
+jp-28;jp;Hyogo;Hy?go;prefecture;Asia
+jp-08;jp;Ibaraki;;prefecture;Asia
+jp-17;jp;Ishikawa;Isikawa;prefecture;Asia
+jp-03;jp;Iwate;;prefecture;Asia
+jp-37;jp;Kagawa;;prefecture;Asia
+jp-46;jp;Kagoshima;Kagosima;prefecture;Asia
+jp-14;jp;Kanagawa;;prefecture;Asia
+jp-39;jp;Kochi;Kôti;prefecture;Asia
+jp-43;jp;Kumamoto;;prefecture;Asia
+jp-26;jp;Kyoto;Kyôto;prefecture;Asia
+jp-24;jp;Mie;;prefecture;Asia
+jp-04;jp;Miyagi;;prefecture;Asia
+jp-45;jp;Miyazaki;;prefecture;Asia
+jp-20;jp;Nagano;;prefecture;Asia
+jp-42;jp;Nagasaki;;prefecture;Asia
+jp-29;jp;Nara;;prefecture;Asia
+jp-15;jp;Niigata;;prefecture;Asia
+jp-44;jp;Oita;Ôita;prefecture;Asia
+jp-33;jp;Okayama;;prefecture;Asia
+jp-47;jp;Okinawa;;prefecture;Asia
+jp-27;jp;Osaka;Ôsaka;prefecture;Asia
+jp-41;jp;Saga;;prefecture;Asia
+jp-11;jp;Saitama;;prefecture;Asia
+jp-25;jp;Shiga;Siga;prefecture;Asia
+jp-32;jp;Shimane;Simane;prefecture;Asia
+jp-22;jp;Shizuoka;Sizuoka;prefecture;Asia
+jp-12;jp;Chiba;Tiba;prefecture;Asia
+jp-36;jp;Tokushima;Tokusima;prefecture;Asia
+jp-13;jp;Tokyo;Tôkyô;prefecture;Asia
+jp-09;jp;Tochigi;Totigi;prefecture;Asia
+jp-31;jp;Tottori;;prefecture;Asia
+jp-16;jp;Toyama;;prefecture;Asia
+jp-30;jp;Wakayama;;prefecture;Asia
+jp-06;jp;Yamagata;;prefecture;Asia
+jp-35;jp;Yamaguchi;Yamaguti;prefecture;Asia
+jp-19;jp;Yamanashi;Yamanasi;prefecture;Asia

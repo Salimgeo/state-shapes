@@ -28,12 +28,10 @@ c5c5c5	state fill
 * Cyprus
 * Estonia
 * Finland
-* Germany
 * Greece
 * Hungary
 * Iceland
 * Ireland
-* Italy
 * Latvia
 * Liechtenstein
 * Lithuania
@@ -62,9 +60,7 @@ c5c5c5	state fill
 * Bhutan
 * Cambodia
 * India
-* Indonesia
 * Israel
-* Japan
 * Jordan
 * Kazakhstan
 * Kyrgyzstan
@@ -85,7 +81,7 @@ c5c5c5	state fill
 * Turkey
 * United Arab Emirates
 * Vietnam
-### Oceania and other
+### Oceania (and Australia)
 * Australia
 * New Zealand
 
