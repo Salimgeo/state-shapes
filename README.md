@@ -16,7 +16,6 @@ c5c5c5	state fill
 * Colombia
 ### North America
 * United States of America
-* Mexico
 * Guatemala
 * Panama
 * Dominican Republic
@@ -39,7 +38,6 @@ c5c5c5	state fill
 * Malta
 * Monaco
 * Montenegro
-* Netherlands
 * North Macedonia
 * Norway
 * Poland
@@ -54,7 +52,6 @@ c5c5c5	state fill
 * Switzerland
 * Ukraine
 * United Kingdom
-* 
 ### Asia
 * Bangladesh
 * Bhutan
@@ -65,8 +62,6 @@ c5c5c5	state fill
 * Kazakhstan
 * Kyrgyzstan
 * Laos
-* Malaysia
-* Mongolia
 * Nepal
 * Oman
 * Palestine

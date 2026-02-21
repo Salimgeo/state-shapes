@@ -378,3 +378,100 @@ jp-30;jp;Wakayama;;prefecture;Asia
 jp-06;jp;Yamagata;;prefecture;Asia
 jp-35;jp;Yamaguchi;Yamaguti;prefecture;Asia
 jp-19;jp;Yamanashi;Yamanasi;prefecture;Asia
+lr-bm;lr;Bomi;;county;Africa
+lr-bg;lr;Bong;;county;Africa
+lr-gp;lr;Gbarpolu;;county;Africa
+lr-gb;lr;Grand Bassa;;county;Africa
+lr-cm;lr;Grand Cape Mount;;county;Africa
+lr-gg;lr;Grand Gedeh;;county;Africa
+lr-gk;lr;Grand Kru;;county;Africa
+lr-lo;lr;Lofa;;county;Africa
+lr-mg;lr;Margibi;;county;Africa
+lr-my;lr;Maryland;;county;Africa
+lr-mo;lr;Montserrado;;county;Africa
+lr-ni;lr;Nimba;;county;Africa
+lr-ri;lr;River Cess;;county;Africa
+lr-rg;lr;River Gee;;county;Africa
+lr-si;lr;Sinoe;;county;Africa
+my-01;my;Johor;;state;Asia
+my-02;my;Kedah;;state;Asia
+my-03;my;Kelantan;;state;Asia
+my-04;my;Melaka;;state;Asia
+my-05;my;Negeri Sembilan;;state;Asia
+my-06;my;Pahang;;state;Asia
+my-08;my;Perak;;state;Asia
+my-09;my;Perlis;;state;Asia
+my-07;my;Pulau Pinang;;state;Asia
+my-12;my;Sabah;;state;Asia
+my-13;my;Sarawak;;state;Asia
+my-10;my;Selangor;;state;Asia
+my-11;my;Terengganu;;state;Asia
+my-14;my;Wilayah Persekutuan Kuala Lumpur;;federal territory;Asia
+my-15;my;Wilayah Persekutuan Labuan;;federal territory;Asia
+my-16;my;Wilayah Persekutuan Putrajaya;;federal territory;Asia
+mx-agu;mx;Aguascalientes;;state;North America
+mx-bcn;mx;Baja California;;state;North America
+mx-bcs;mx;Baja California Sur;;state;North America
+mx-cam;mx;Campeche;;state;North America
+mx-chh;mx;Chihuahua;;state;North America
+mx-chp;mx;Chiapas;;state;North America
+mx-cmx;mx;Ciudad de México;;federal entity;North America
+mx-coa;mx;Coahuila de Zaragoza;Coahuila;state;North America
+mx-col;mx;Colima;;state;North America
+mx-dur;mx;Durango;;state;North America
+mx-gro;mx;Guerrero;;state;North America
+mx-gua;mx;Guanajuato;;state;North America
+mx-hid;mx;Hidalgo;;state;North America
+mx-jal;mx;Jalisco;;state;North America
+mx-mex;mx;México;;state;North America
+mx-mic;mx;Michoacán de Ocampo;Michoacán;state;North America
+mx-mor;mx;Morelos;;state;North America
+mx-nay;mx;Nayarit;;state;North America
+mx-nle;mx;Nuevo León;;state;North America
+mx-oax;mx;Oaxaca;;state;North America
+mx-pue;mx;Puebla;;state;North America
+mx-que;mx;Querétaro;;state;North America
+mx-roo;mx;Quintana Roo;;state;North America
+mx-sin;mx;Sinaloa;;state;North America
+mx-slp;mx;San Luis Potosí;;state;North America
+mx-son;mx;Sonora;;state;North America
+mx-tab;mx;Tabasco;;state;North America
+mx-tam;mx;Tamaulipas;;state;North America
+mx-tla;mx;Tlaxcala;;state;North America
+mx-ver;mx;Veracruz de Ignacio de la Llave;Veracruz;state;North America
+mx-yuc;mx;Yucatán;;state;North America
+mx-zac;mx;Zacatecas;;state;North America
+mn-1;mn;Ulaanbaatar;???????????;capital city;Asia
+mn-035;mn;Orhon;?????;province;Asia
+mn-037;mn;Darhan uul;??????-???;province;Asia
+mn-039;mn;Hentiy;??????;province;Asia
+mn-041;mn;Hövsgöl;???????;province;Asia
+mn-043;mn;Hovd;????;province;Asia
+mn-046;mn;Uvs;???;province;Asia
+mn-047;mn;Töv;???;province;Asia
+mn-049;mn;Selenge;???????;province;Asia
+mn-051;mn;Sühbaatar;?????????;province;Asia
+mn-053;mn;Ömnögov?;????????;province;Asia
+mn-055;mn;Övörhangay;??????????;province;Asia
+mn-057;mn;Dzavhan;??????;province;Asia
+mn-059;mn;Dundgov?;????????;province;Asia
+mn-061;mn;Dornod;??????;province;Asia
+mn-063;mn;Dornogov?;?????????;province;Asia
+mn-064;mn;Gov?-Sümber;??????????;province;Asia
+mn-065;mn;Gov?-Altay;????-?????;province;Asia
+mn-067;mn;Bulgan;??????;province;Asia
+mn-069;mn;Bayanhongor;??????????;province;Asia
+mn-071;mn;Bayan-Ölgiy;????-?????;province;Asia
+mn-073;mn;Arhangay;????????;province;Asia
+nl-dr;nl;Drenthe;Drenthe;province;Europe
+nl-fl;nl;Flevoland;Flevoland;province;Europe
+nl-fr;nl;Friesland;Fryslân (fy);province;Europe
+nl-ge;nl;Gelderland;Gelderland;province;Europe
+nl-gr;nl;Groningen;Groningen;province;Europe
+nl-li;nl;Limburg;Limburg;province;Europe
+nl-nb;nl;North Brabant;Noord-Brabant;province;Europe
+nl-nh;nl;North Holland;Noord-Holland;province;Europe
+nl-ov;nl;Overijssel;Overijssel;province;Europe
+nl-ut;nl;Utrecht;Utrecht;province;Europe
+nl-ze;nl;Zeeland;Zeeland;province;Europe
+nl-zh;nl;South Holland;Zuid-Holland;province;Europe
