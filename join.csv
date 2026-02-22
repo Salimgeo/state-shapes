@@ -239,11 +239,11 @@ cz-64;cz;South Moravia;Jihomoravský kraj;region;Europe
 cz-71;cz;Olomouc;Olomoucký kraj;region;Europe
 cz-72;cz;Zlín;Zlínský kraj;region;Europe
 cz-80;cz;Moravia-Silesia;Moravskoslezský kraj;region;Europe
-dk-84;dk;Hovedstaden;Capital;region;Europe
-dk-82;dk;Midtjylland;Central Denmark;region;Europe
-dk-81;dk;Nordjylland;North Denmark;region;Europe
-dk-85;dk;Sj?lland;Zealand;region;Europe
-dk-83;dk;Syddanmark;South Denmark;region;Europe
+dk-84;dk;Capital;Hovedstaden;region;Europe
+dk-82;dk;Central Denmark;Midtjylland;region;Europe
+dk-81;dk;North Denmark;Nordjylland;region;Europe
+dk-85;dk;Zealand;Sjaelland;region;Europe
+dk-83;dk;South Denmark;Syddanmark;region;Europe
 fr-ara;fr;Auvergne-Rhône-Alps;Auvergne-Rhône-Alpes;metropolitan region;Europe
 fr-bfc;fr;Burgundy-Franche-Comté;Bourgogne-Franche-Comté;metropolitan region;Europe
 fr-bre;fr;Brittany; Bretagne;metropolitan region;Europe
@@ -342,7 +342,7 @@ jp-01;jp;Hokkaido;Hokkaidô;prefecture;Asia
 jp-18;jp;Fukui;Hukui;prefecture;Asia
 jp-40;jp;Fukuoka;Hukuoka;prefecture;Asia
 jp-07;jp;Fukushima;Hukusima;prefecture;Asia
-jp-28;jp;Hyogo;Hy?go;prefecture;Asia
+jp-28;jp;Hyogo;Hyogo;prefecture;Asia
 jp-08;jp;Ibaraki;;prefecture;Asia
 jp-17;jp;Ishikawa;Isikawa;prefecture;Asia
 jp-03;jp;Iwate;;prefecture;Asia
@@ -441,28 +441,28 @@ mx-tla;mx;Tlaxcala;;state;North America
 mx-ver;mx;Veracruz de Ignacio de la Llave;Veracruz;state;North America
 mx-yuc;mx;Yucatán;;state;North America
 mx-zac;mx;Zacatecas;;state;North America
-mn-1;mn;Ulaanbaatar;???????????;capital city;Asia
-mn-035;mn;Orhon;?????;province;Asia
-mn-037;mn;Darhan uul;??????-???;province;Asia
-mn-039;mn;Hentiy;??????;province;Asia
-mn-041;mn;Hövsgöl;???????;province;Asia
-mn-043;mn;Hovd;????;province;Asia
-mn-046;mn;Uvs;???;province;Asia
-mn-047;mn;Töv;???;province;Asia
-mn-049;mn;Selenge;???????;province;Asia
-mn-051;mn;Sühbaatar;?????????;province;Asia
-mn-053;mn;Ömnögov?;????????;province;Asia
-mn-055;mn;Övörhangay;??????????;province;Asia
-mn-057;mn;Dzavhan;??????;province;Asia
-mn-059;mn;Dundgov?;????????;province;Asia
-mn-061;mn;Dornod;??????;province;Asia
-mn-063;mn;Dornogov?;?????????;province;Asia
-mn-064;mn;Gov?-Sümber;??????????;province;Asia
-mn-065;mn;Gov?-Altay;????-?????;province;Asia
-mn-067;mn;Bulgan;??????;province;Asia
-mn-069;mn;Bayanhongor;??????????;province;Asia
-mn-071;mn;Bayan-Ölgiy;????-?????;province;Asia
-mn-073;mn;Arhangay;????????;province;Asia
+mn-1;mn;Ulaanbaatar;;capital city;Asia
+mn-035;mn;Orhon;;province;Asia
+mn-037;mn;Darhan uul;;province;Asia
+mn-039;mn;Hentiy;;province;Asia
+mn-041;mn;Hövsgöl;;province;Asia
+mn-043;mn;Hovd;;province;Asia
+mn-046;mn;Uvs;;province;Asia
+mn-047;mn;Töv;;province;Asia
+mn-049;mn;Selenge;;province;Asia
+mn-051;mn;Sühbaatar;;province;Asia
+mn-053;mn;Ömnögovi;;province;Asia
+mn-055;mn;Övörhangay;;province;Asia
+mn-057;mn;Dzavhan;;province;Asia
+mn-059;mn;Dundgovi;;province;Asia
+mn-061;mn;Dornod;;province;Asia
+mn-063;mn;Dornogovi;;province;Asia
+mn-064;mn;Govi-Sümber;;province;Asia
+mn-065;mn;Govi-Altay;;province;Asia
+mn-067;mn;Bulgan;;province;Asia
+mn-069;mn;Bayanhongor;;province;Asia
+mn-071;mn;Bayan-Ölgiy;;province;Asia
+mn-073;mn;Arhangay;;province;Asia
 nl-dr;nl;Drenthe;Drenthe;province;Europe
 nl-fl;nl;Flevoland;Flevoland;province;Europe
 nl-fr;nl;Friesland;Fryslân (fy);province;Europe
@@ -475,3 +475,74 @@ nl-ov;nl;Overijssel;Overijssel;province;Europe
 nl-ut;nl;Utrecht;Utrecht;province;Europe
 nl-ze;nl;Zeeland;Zeeland;province;Europe
 nl-zh;nl;South Holland;Zuid-Holland;province;Europe
+ng-ab;ng;Abia;;state;Africa
+ng-fc;ng;Abuja Federal Capital Territory;Abuja FCT;capital territory;Africa
+ng-ad;ng;Adamawa;;state;Africa
+ng-ak;ng;Akwa Ibom;;state;Africa
+ng-an;ng;Anambra;;state;Africa
+ng-ba;ng;Bauchi;;state;Africa
+ng-by;ng;Bayelsa;;state;Africa
+ng-be;ng;Benue;;state;Africa
+ng-bo;ng;Borno;;state;Africa
+ng-cr;ng;Cross River;;state;Africa
+ng-de;ng;Delta;;state;Africa
+ng-eb;ng;Ebonyi;;state;Africa
+ng-ed;ng;Edo;;state;Africa
+ng-ek;ng;Ekiti;;state;Africa
+ng-en;ng;Enugu;;state;Africa
+ng-go;ng;Gombe;;state;Africa
+ng-im;ng;Imo;;state;Africa
+ng-ji;ng;Jigawa;;state;Africa
+ng-kd;ng;Kaduna;;state;Africa
+ng-kn;ng;Kano;;state;Africa
+ng-kt;ng;Katsina;;state;Africa
+ng-ke;ng;Kebbi;;state;Africa
+ng-ko;ng;Kogi;;state;Africa
+ng-kw;ng;Kwara;;state;Africa
+ng-la;ng;Lagos;;state;Africa
+ng-na;ng;Nasarawa;;state;Africa
+ng-ni;ng;Niger;;state;Africa
+ng-og;ng;Ogun;;state;Africa
+ng-on;ng;Ondo;;state;Africa
+ng-os;ng;Osun;;state;Africa
+ng-oy;ng;Oyo;;state;Africa
+ng-pl;ng;Plateau;;state;Africa
+ng-ri;ng;Rivers;;state;Africa
+ng-so;ng;Sokoto;;state;Africa
+ng-ta;ng;Taraba;;state;Africa
+ng-yo;ng;Yobe;;state;Africa
+ng-za;ng;Zamfara;;state;Africa
+pt-01;pt;Aveiro;Aveiro;district;Europe
+pt-02;pt;Beja;Beja;district;Europe
+pt-03;pt;Braga;Braga;district;Europe
+pt-04;pt;Bragança;Bragança;district;Europe
+pt-05;pt;Castelo Branco;Castelo Branco;district;Europe
+pt-06;pt;Coimbra;Coimbra;district;Europe
+pt-07;pt;Evora;Évora;district;Europe
+pt-08;pt;Faro;Faro;district;Europe
+pt-09;pt;Guarda;Guarda;district;Europe
+pt-10;pt;Leiria;Leiria;district;Europe
+pt-11;pt;Lisbon;Lisboa;district;Europe
+pt-12;pt;Portalegre;Portalegre;district;Europe
+pt-13;pt;Porto;Porto;district;Europe
+pt-30;pt;Madeira;Regi?o Autónoma da Madeira;autonomous region;Europe
+pt-20;pt;Azores;Regi?o Autónoma dos Açores;autonomous region;Europe
+pt-14;pt;Santarém;Santarém;district;Europe
+pt-15;pt;Setúbal;Setúbal;district;Europe
+pt-16;pt;Viana do Castelo;Viana do Castelo;district;Europe
+pt-17;pt;Vila Real;Vila Real;district;Europe
+pt-18;pt;Viseu;Viseu;district;Europe
+sn-dk;sn;Dakar;;region;Africa
+sn-db;sn;Diourbel;;region;Africa
+sn-fk;sn;Fatick;;region;Africa
+sn-ka;sn;Kaffrine;;region;Africa
+sn-kl;sn;Kaolack;;region;Africa
+sn-ke;sn;Kédougou;;region;Africa
+sn-kd;sn;Kolda;;region;Africa
+sn-lg;sn;Louga;;region;Africa
+sn-mt;sn;Matam;;region;Africa
+sn-sl;sn;Saint-Louis;;region;Africa
+sn-se;sn;Sédhiou;;region;Africa
+sn-tc;sn;Tambacounda;;region;Africa
+sn-th;sn;Thies;;region;Africa
+sn-zg;sn;Ziguinchor;;region;Africa

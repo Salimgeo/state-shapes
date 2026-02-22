@@ -41,7 +41,6 @@ c5c5c5	state fill
 * North Macedonia
 * Norway
 * Poland
-* Portugal
 * Romania
 * Russia
 * San Marino
@@ -87,10 +86,8 @@ c5c5c5	state fill
 * Lesotho
 * Madagascar
 * Namibia
-* Nigeria
 * Rwanda
 * São Tomé and Príncipe
 * South Africa
-* Senegal
 * Tunisia
 * Uganda
