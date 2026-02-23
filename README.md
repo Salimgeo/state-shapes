@@ -67,7 +67,6 @@ c5c5c5	state fill
 * South Korea
 * Sri Lanka
 * Taiwan
-* Thailand
 * Turkey
 * United Arab Emirates
 * Vietnam

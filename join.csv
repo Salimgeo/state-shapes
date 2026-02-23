@@ -465,7 +465,7 @@ mn-071;mn;Bayan-Ölgiy;;province;Asia
 mn-073;mn;Arhangay;;province;Asia
 nl-dr;nl;Drenthe;Drenthe;province;Europe
 nl-fl;nl;Flevoland;Flevoland;province;Europe
-nl-fr;nl;Friesland;Fryslân (fy);province;Europe
+nl-fr;nl;Friesland;Fryslân;province;Europe
 nl-ge;nl;Gelderland;Gelderland;province;Europe
 nl-gr;nl;Groningen;Groningen;province;Europe
 nl-li;nl;Limburg;Limburg;province;Europe
@@ -525,8 +525,8 @@ pt-10;pt;Leiria;Leiria;district;Europe
 pt-11;pt;Lisbon;Lisboa;district;Europe
 pt-12;pt;Portalegre;Portalegre;district;Europe
 pt-13;pt;Porto;Porto;district;Europe
-pt-30;pt;Madeira;Regi?o Autónoma da Madeira;autonomous region;Europe
-pt-20;pt;Azores;Regi?o Autónoma dos Açores;autonomous region;Europe
+pt-30;pt;Madeira;Regiao Autónoma da Madeira;autonomous region;Europe
+pt-20;pt;Azores;Regiao Autónoma dos Açores;autonomous region;Europe
 pt-14;pt;Santarém;Santarém;district;Europe
 pt-15;pt;Setúbal;Setúbal;district;Europe
 pt-16;pt;Viana do Castelo;Viana do Castelo;district;Europe
@@ -572,7 +572,7 @@ ch-be;ch;Bern;Berne;canton;Europe
 ch-bl;ch;Basel-Landschaft;;canton;Europe
 ch-bs;ch;Basel-Stadt;;canton;Europe
 ch-fr;ch;Fribourg;Freiburg;canton;Europe
-ch-ge;ch;Gen?ve;;canton;Europe
+ch-ge;ch;Geneve;;canton;Europe
 ch-gl;ch;Glarus;;canton;Europe
 ch-gr;ch;Graubünden;Grigioni;canton;Europe
 ch-ju;ch;Jura;;canton;Europe
@@ -646,3 +646,84 @@ us-wv;us;West Virginia;;state;North America
 us-wi;us;Wisconsin;;state;North America
 us-wy;us;Wyoming;;state;North America
 us-dc;us;District of Columbia;;district;North America
+ie-c;ie;Connaught;Connacht;province;Europe
+ie-l;ie;Leinster;Laighin;province;Europe
+ie-m;ie;Munster;An Mhumhain;province;Europe
+ie-u;ie;Ulster;Ulaidh;province;Europe
+th-96;th;Narathiwat;;province;Asia
+th-95;th;Yala;;province;Asia
+th-94;th;Pattani;;province;Asia
+th-93;th;Phatthalung;;province;Asia
+th-92;th;Trang;;province;Asia
+th-91;th;Satun;;province;Asia
+th-90;th;Songkhla;;province;Asia
+th-86;th;Chumphon;;province;Asia
+th-85;th;Ranong;;province;Asia
+th-84;th;Surat Thani;;province;Asia
+th-83;th;Phuket;;province;Asia
+th-82;th;Phangnga;;province;Asia
+th-81;th;Krabi;;province;Asia
+th-80;th;Nakhon Si Thammarat;;province;Asia
+th-77;th;Prachuap Khiri Khan;;province;Asia
+th-76;th;Phetchaburi;;province;Asia
+th-75;th;Samut Songkhram;;province;Asia
+th-74;th;Samut Sakhon;;province;Asia
+th-73;th;Nakhon Pathom;;province;Asia
+th-72;th;Suphan Buri;;province;Asia
+th-71;th;Kanchanaburi;;province;Asia
+th-70;th;Ratchaburi;;province;Asia
+th-67;th;Phetchabun;;province;Asia
+th-66;th;Phichit;;province;Asia
+th-65;th;Phitsanulok;;province;Asia
+th-64;th;Sukhothai;;province;Asia
+th-63;th;Tak;;province;Asia
+th-62;th;Kamphaeng Phet;;province;Asia
+th-61;th;Uthai Thani;;province;Asia
+th-60;th;Nakhon Sawan;;province;Asia
+th-58;th;Mae Hong Son;;province;Asia
+th-57;th;Chiang Rai;;province;Asia
+th-56;th;Phayao;;province;Asia
+th-55;th;Nan;;province;Asia
+th-54;th;Phrae;;province;Asia
+th-53;th;Uttaradit;;province;Asia
+th-52;th;Lampang;;province;Asia
+th-51;th;Lamphun;;province;Asia
+th-50;th;Chiang Mai;;province;Asia
+th-49;th;Mukdahan;;province;Asia
+th-48;th;Nakhon Phanom;;province;Asia
+th-47;th;Sakon Nakhon;;province;Asia
+th-46;th;Kalasin;;province;Asia
+th-45;th;Roi Et;;province;Asia
+th-44;th;Maha Sarakham;;province;Asia
+th-43;th;Nong Khai;;province;Asia
+th-42;th;Loei;;province;Asia
+th-41;th;Udon Thani;;province;Asia
+th-40;th;Khon Kaen;;province;Asia
+th-39;th;Nong Bua Lam Phu;;province;Asia
+th-38;th;Bueng Kan;;province;Asia
+th-37;th;Amnat Charoen;;province;Asia
+th-36;th;Chaiyaphum;;province;Asia
+th-35;th;Yasothon;;province;Asia
+th-34;th;Ubon Ratchathani;;province;Asia
+th-33;th;Si Sa Ket;;province;Asia
+th-32;th;Surin;;province;Asia
+th-31;th;Buri Ram;;province;Asia
+th-30;th;Nakhon Ratchasima;;province;Asia
+th-27;th;Sa Kaeo;;province;Asia
+th-26;th;Nakhon Nayok;;province;Asia
+th-25;th;Prachin Buri;;province;Asia
+th-24;th;Chachoengsao;;province;Asia
+th-23;th;Trat;;province;Asia
+th-22;th;Chanthaburi;;province;Asia
+th-21;th;Rayong;;province;Asia
+th-20;th;Chon Buri;;province;Asia
+th-19;th;Saraburi;;province;Asia
+th-18;th;Chai Nat;;province;Asia
+th-17;th;Sing Buri;;province;Asia
+th-16;th;Lop Buri;;province;Asia
+th-15;th;Ang Thong;;province;Asia
+th-14;th;Phra Nakhon Si Ayutthaya;;province;Asia
+th-13;th;Pathum Thani;;province;Asia
+th-12;th;Nonthaburi;;province;Asia
+th-11;th;Samut Prakan;;province;Asia
+th-10;th;Krung Thep Maha Nakhon;Bangkok;metropolitan administration;Asia
