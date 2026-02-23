@@ -15,7 +15,6 @@ c5c5c5	state fill
 ### South America
 * Colombia
 ### North America
-* United States of America
 * Guatemala
 * Panama
 * Dominican Republic
@@ -46,11 +45,8 @@ c5c5c5	state fill
 * San Marino
 * Serbia
 * Slovenia
-* Spain
 * Sweden
-* Switzerland
 * Ukraine
-* United Kingdom
 ### Asia
 * Bangladesh
 * Bhutan

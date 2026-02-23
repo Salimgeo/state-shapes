@@ -546,3 +546,103 @@ sn-se;sn;Sédhiou;;region;Africa
 sn-tc;sn;Tambacounda;;region;Africa
 sn-th;sn;Thies;;region;Africa
 sn-zg;sn;Ziguinchor;;region;Africa
+es-an;es;Andalusia;Andalucía;autonomous community;Europe
+es-ar;es;Aragon;Aragón;autonomous community;Europe
+es-as;es;Principality of Asturias;Asturias, Principado de;autonomous community;Europe
+es-cn;es;Canary Islands;Canarias;autonomous community;Europe
+es-cb;es;Cantabria;Cantabria;autonomous community;Europe
+es-cl;es;Castile and León;Castilla y León;autonomous community;Europe
+es-cm;es;Castile-La Mancha;Castilla-La Mancha;autonomous community;Europe
+es-ct;es;Catalonia;Catalunya;autonomous community;Europe
+es-ce;es;Ceuta;Ceuta;autonomous city;Europe
+es-ex;es;Extremadura;Extremadura;autonomous community;Europe
+es-ga;es;Galicia;Galicia;autonomous community;Europe
+es-ib;es;Balearic Islands;Illes Balears;autonomous community;Europe
+es-ri;es;La Rioja;La Rioja;autonomous community;Europe
+es-md;es;Community of Madrid;Madrid, Comunidad de;autonomous community;Europe
+es-ml;es;Melilla;Melilla;autonomous city;Europe
+es-mc;es;Region of Murcia;Murcia, Región de;autonomous community;Europe
+es-nc;es;Chartered Community of Navarre;Navarra, Comunidad Foral de;autonomous community;Europe
+es-pv;es;Basque Country;País Vasco;autonomous community;Europe
+es-vc;es;Valencian Community;Valenciana, Comunidad;autonomous community;Europe
+ch-ag;ch;Aargau;;canton;Europe
+ch-ai;ch;Appenzell Innerrhoden;;canton;Europe
+ch-ar;ch;Appenzell Ausserrhoden;;canton;Europe
+ch-be;ch;Bern;Berne;canton;Europe
+ch-bl;ch;Basel-Landschaft;;canton;Europe
+ch-bs;ch;Basel-Stadt;;canton;Europe
+ch-fr;ch;Fribourg;Freiburg;canton;Europe
+ch-ge;ch;Gen?ve;;canton;Europe
+ch-gl;ch;Glarus;;canton;Europe
+ch-gr;ch;Graubünden;Grigioni;canton;Europe
+ch-ju;ch;Jura;;canton;Europe
+ch-lu;ch;Luzern;;canton;Europe
+ch-ne;ch;Neuchâtel;;canton;Europe
+ch-nw;ch;Nidwalden;;canton;Europe
+ch-ow;ch;Obwalden;;canton;Europe
+ch-sg;ch;Sankt Gallen;;canton;Europe
+ch-sh;ch;Schaffhausen;;canton;Europe
+ch-so;ch;Solothurn;;canton;Europe
+ch-sz;ch;Schwyz;;canton;Europe
+ch-tg;ch;Thurgau;;canton;Europe
+ch-ti;ch;Ticino;;canton;Europe
+ch-ur;ch;Uri;;canton;Europe
+ch-vd;ch;Vaud;;canton;Europe
+ch-vs;ch;Valais;Wallis;canton;Europe
+ch-zg;ch;Zug;;canton;Europe
+ch-zh;ch;Zürich;;canton;Europe
+gb-eng;gb;England;;country;Europe
+gb-nir;gb;Northern Ireland;;province;Europe
+gb-sct;gb;Scotland;;country;Europe
+gb-wls;gb;Wales;Cymru;country;Europe
+us-al;us;Alabama;;state;North America
+us-ak;us;Alaska;;state;North America
+us-az;us;Arizona;;state;North America
+us-ar;us;Arkansas;;state;North America
+us-ca;us;California;;state;North America
+us-co;us;Colorado;;state;North America
+us-ct;us;Connecticut;;state;North America
+us-de;us;Delaware;;state;North America
+us-fl;us;Florida;;state;North America
+us-ga;us;Georgia;;state;North America
+us-hi;us;Hawaii;;state;North America
+us-id;us;Idaho;;state;North America
+us-il;us;Illinois;;state;North America
+us-in;us;Indiana;;state;North America
+us-ia;us;Iowa;;state;North America
+us-ks;us;Kansas;;state;North America
+us-ky;us;Kentucky;;state;North America
+us-la;us;Louisiana;;state;North America
+us-me;us;Maine;;state;North America
+us-md;us;Maryland;;state;North America
+us-ma;us;Massachusetts;;state;North America
+us-mi;us;Michigan;;state;North America
+us-mn;us;Minnesota;;state;North America
+us-ms;us;Mississippi;;state;North America
+us-mo;us;Missouri;;state;North America
+us-mt;us;Montana;;state;North America
+us-ne;us;Nebraska;;state;North America
+us-nv;us;Nevada;;state;North America
+us-nh;us;New Hampshire;;state;North America
+us-nj;us;New Jersey;;state;North America
+us-nm;us;New Mexico;;state;North America
+us-ny;us;New York;;state;North America
+us-nc;us;North Carolina;;state;North America
+us-nd;us;North Dakota;;state;North America
+us-oh;us;Ohio;;state;North America
+us-ok;us;Oklahoma;;state;North America
+us-or;us;Oregon;;state;North America
+us-pa;us;Pennsylvania;;state;North America
+us-ri;us;Rhode Island;;state;North America
+us-sc;us;South Carolina;;state;North America
+us-sd;us;South Dakota;;state;North America
+us-tn;us;Tennessee;;state;North America
+us-tx;us;Texas;;state;North America
+us-ut;us;Utah;;state;North America
+us-vt;us;Vermont;;state;North America
+us-va;us;Virginia;;state;North America
+us-wa;us;Washington;;state;North America
+us-wv;us;West Virginia;;state;North America
+us-wi;us;Wisconsin;;state;North America
+us-wy;us;Wyoming;;state;North America
+us-dc;us;District of Columbia;;district;North America
