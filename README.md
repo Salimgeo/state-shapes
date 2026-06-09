@@ -33,7 +33,6 @@ c5c5c5	state fill
 * Luxembourg
 * Malta
 * Monaco
-* Montenegro
 * North Macedonia
 * Norway
 * Poland
