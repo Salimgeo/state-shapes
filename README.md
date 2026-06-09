@@ -27,7 +27,6 @@ c5c5c5	state fill
 * Estonia
 * Finland
 * Greece
-* Hungary
 * Iceland
 * Ireland
 * Latvia
