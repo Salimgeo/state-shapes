@@ -727,3 +727,47 @@ th-13;th;Pathum Thani;;province;Asia
 th-12;th;Nonthaburi;;province;Asia
 th-11;th;Samut Prakan;;province;Asia
 th-10;th;Krung Thep Maha Nakhon;Bangkok;metropolitan administration;Asia
+hu-ba;hu;Baranya;;county;Europe
+hu-be;hu;Békés;;county;Europe
+hu-bk;hu;Bács-Kiskun;;county;Europe
+hu-bu;hu;Budapest;;capital city;Europe
+hu-bz;hu;Borsod-Abaúj-Zemplén;;county;Europe
+hu-cs;hu;Csongrád-Csanád;;county;Europe
+hu-fe;hu;Fejér;;county;Europe
+hu-gs;hu;Gyõr-Moson-Sopron;;county;Europe
+hu-hb;hu;Hajdú-Bihar;;county;Europe
+hu-he;hu;Heves;;county;Europe
+hu-jn;hu;Jász-Nagykun-Szolnok;;county;Europe
+hu-ke;hu;Komárom-Esztergom;;county;Europe
+hu-no;hu;Nógrád;;county;Europe
+hu-pe;hu;Pest;;county;Europe
+hu-so;hu;Somogy;;county;Europe
+hu-sz;hu;Szabolcs-Szatmár-Bereg;;county;Europe
+hu-to;hu;Tolna;;county;Europe
+hu-va;hu;Vas;;county;Europe
+hu-ve;hu;Veszprém;;county;Europe
+hu-za;hu;Zala;;county;Europe
+hr-01;hr;Zagreb County;Zagrebaèka županija;county;Europe
+hr-02;hr;Krapina-Zagorje;Krapinsko-zagorska županija;county;Europe
+hr-03;hr;Sisak-Moslavina;Sisaèko-moslavaèka županija;county;Europe
+hr-04;hr;Karlovac;Karlovaèka županija;county;Europe
+hr-05;hr;Varaždin;Varaždinska županija;county;Europe
+hr-06;hr;Koprivnica-Križevci;Koprivnièko-križevaèka županija;county;Europe
+hr-07;hr;Bjelovar-Bilogora;Bjelovarsko-bilogorska županija;county;Europe
+hr-08;hr;Primorje-Gorski Kotar;Primorsko-goranska županija;county;Europe
+hr-09;hr;Lika-Senj;Lièko-senjska županija;county;Europe
+hr-10;hr;Virovitica-Podravina;Virovitièko-podravska županija;county;Europe
+hr-11;hr;Požega-Slavonia;Požeško-slavonska županija;county;Europe
+hr-12;hr;Brod-Posavina;Brodsko-posavska županija;county;Europe
+hr-13;hr;Zadar;Zadarska županija;county;Europe
+hr-14;hr;Osijek-Baranja;Osjeèko-baranjska županija;county;Europe
+hr-15;hr;Šibenik-Knin;Šibensko-kninska županija;county;Europe
+hr-16;hr;Vukovar-Srijem;Vukovarsko-srijemska županija;county;Europe
+hr-17;hr;Split-Dalmatia;Splitsko-dalmatinska županija;county;Europe
+hr-18;hr;Istria;Istarska županija;county;Europe
+hr-19;hr;Dubrovnik-Neretva;Dubrovaèko-neretvanska županija;county;Europe
+hr-20;hr;Meðimurje;Meðimurska županija;county;Europe
+hr-21;hr;Zagreb City;Grad Zagreb;city;Europe
+ba-bih;ba;Federation of Bosnia and Herzegovina;Federacija Bosne i Hercegovine;entity;Europe
+ba-srp;ba;Republika Srpska;;entity;Europe
+ba-brc;ba;Brèko District;;district with special status;Europe

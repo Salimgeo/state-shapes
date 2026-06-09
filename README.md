@@ -20,7 +20,6 @@ c5c5c5	state fill
 * Dominican Republic
 ### Europe
 * Albania
-* Bosnia and Herzegovina
 * Bulgaria
 * Cyprus
 * Estonia
