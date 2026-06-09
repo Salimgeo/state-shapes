@@ -22,7 +22,6 @@ c5c5c5	state fill
 * Albania
 * Bosnia and Herzegovina
 * Bulgaria
-* Croatia
 * Cyprus
 * Estonia
 * Finland
