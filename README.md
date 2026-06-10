@@ -77,3 +77,8 @@ c5c5c5	state fill
 * São Tomé and Príncipe
 * Tunisia
 * Uganda
+
+## Shapes that look very different from OSM
+This happens because these shapes are used for guessing game in Geotastic where Google Maps are used for guessing.
+* Botswana
+* Montenegro
