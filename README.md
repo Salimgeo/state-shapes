@@ -70,7 +70,6 @@ c5c5c5	state fill
 * New Zealand
 
 ### Africa
-* Eswatini
 * Ghana
 * Kenya
 * Madagascar
