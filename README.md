@@ -77,6 +77,5 @@ c5c5c5	state fill
 * Madagascar
 * Rwanda
 * São Tomé and Príncipe
-* South Africa
 * Tunisia
 * Uganda
