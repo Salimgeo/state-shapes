@@ -36,7 +36,6 @@ c5c5c5	state fill
 * Norway
 * Poland
 * Romania
-* Russia
 * San Marino
 * Serbia
 * Slovenia
@@ -55,7 +54,6 @@ c5c5c5	state fill
 * Palestine
 * Philippines
 * Qatar
-* Russia
 * Singapore
 * South Korea
 * Sri Lanka
