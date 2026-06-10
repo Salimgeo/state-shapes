@@ -11,7 +11,7 @@ c5c5c5	state fill
 252525	suggested background color    
    
 ## To do states
-(includes only countries that have extensive Google Street View)   
+(includes only independent countries that have extensive Google Street View)   
 ### South America
 * Colombia
 ### North America
@@ -52,7 +52,6 @@ c5c5c5	state fill
 * Kazakhstan
 * Kyrgyzstan
 * Laos
-* Nepal
 * Oman
 * Palestine
 * Philippines
