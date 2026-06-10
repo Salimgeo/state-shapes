@@ -41,7 +41,6 @@ c5c5c5	state fill
 * Serbia
 * Slovenia
 * Sweden
-* Ukraine
 ### Asia
 * Bangladesh
 * Bhutan
