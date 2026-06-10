@@ -25,7 +25,6 @@ c5c5c5	state fill
 * Estonia
 * Finland
 * Greece
-* Iceland
 * Ireland
 * Latvia
 * Liechtenstein
@@ -76,7 +75,6 @@ c5c5c5	state fill
 * Kenya
 * Lesotho
 * Madagascar
-* Namibia
 * Rwanda
 * São Tomé and Príncipe
 * South Africa
