@@ -73,7 +73,6 @@ c5c5c5	state fill
 * Eswatini
 * Ghana
 * Kenya
-* Lesotho
 * Madagascar
 * Rwanda
 * São Tomé and Príncipe
