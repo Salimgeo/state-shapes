@@ -33,7 +33,6 @@ c5c5c5	state fill
 * Monaco
 * North Macedonia
 * Norway
-* Poland
 * Romania
 * San Marino
 * Serbia
