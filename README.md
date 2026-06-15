@@ -59,6 +59,7 @@ c5c5c5	state fill
 * Turkey
 * United Arab Emirates
 * Vietnam
+
 ### Oceania (and Australia)
 * Australia
 * New Zealand
@@ -71,6 +72,10 @@ c5c5c5	state fill
 * São Tomé and Príncipe
 * Tunisia
 * Uganda
+
+## Custom codes
+A few subdivisions does not have official ISO code. Custom codes were created for these.
+* lb-kj – Keserwan-Jbeil Governorate (Lebanon)
 
 ## Shapes that look very different from OSM
 This happens because these shapes are used for guessing game in Geotastic where Google Maps are used for guessing.
