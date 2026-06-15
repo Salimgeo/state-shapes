@@ -61,7 +61,6 @@ c5c5c5	state fill
 * Vietnam
 
 ### Oceania (and Australia)
-* Australia
 * New Zealand
 
 ### Africa
