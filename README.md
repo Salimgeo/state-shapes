@@ -44,7 +44,6 @@ c5c5c5	state fill
 * Cambodia
 * India
 * Israel
-* Jordan
 * Kazakhstan
 * Kyrgyzstan
 * Laos
