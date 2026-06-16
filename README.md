@@ -47,7 +47,6 @@ c5c5c5	state fill
 * Kazakhstan
 * Kyrgyzstan
 * Laos
-* Oman
 * Palestine
 * Philippines
 * Singapore
@@ -77,3 +76,4 @@ A few subdivisions does not have official ISO code. Custom codes were created fo
 This happens because these shapes are used for guessing game in Geotastic where Google Maps are used for guessing.
 * Botswana
 * Montenegro
+* Oman
