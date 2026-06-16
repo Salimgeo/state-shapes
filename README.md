@@ -56,7 +56,6 @@ c5c5c5	state fill
 * Sri Lanka
 * Taiwan
 * Turkey
-* United Arab Emirates
 * Vietnam
 
 ### Oceania (and Australia)
