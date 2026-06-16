@@ -50,7 +50,6 @@ c5c5c5	state fill
 * Oman
 * Palestine
 * Philippines
-* Qatar
 * Singapore
 * South Korea
 * Sri Lanka
