@@ -42,6 +42,7 @@ c5c5c5	state fill
 * Bangladesh
 * Bhutan
 * Cambodia
+* Georgia
 * India
 * Israel
 * Kazakhstan
